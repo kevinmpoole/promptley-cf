@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "promptley-cf",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "51e1296b-dff1-47d9-b1ef-4ff41666d057",
+      "database_name": "mute-rain-1e78-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
